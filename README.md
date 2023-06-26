@@ -1,1 +1,1 @@
-# landingPage
+This is an assignment from The Odin Project. This projects helps me practice my HTML and CSS. It specifically helps me pratice margins, padding, divs, as well as web design and fitting content into a presentable website.
