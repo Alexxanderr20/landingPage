@@ -1,0 +1,51 @@
+body
+{
+    font-family: 'roboto', sans-serif;
+}
+
+#hero
+{
+    padding: 25px;
+    margin: 0 40px;
+    background-color: #1F2937;
+    color: white;
+}
+
+#quote
+{   margin: 15px 40px;
+    padding: 10px;
+    color: #1F2937;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #E5E7EB;
+}
+
+#action
+{
+    margin: 25px 140px;
+    padding: 80px 65px;
+    color: white;
+    background-color: #3882F6;
+}
+
+#action-header
+{
+    font-size: 20px;
+}
+
+#sign-up-action
+{
+    color: white;
+    border: #E5E7EB 1px solid;
+    border-radius: 5px;
+    background-color: #3882F6;
+}
+
+
+#footer
+{
+    padding: 15px;
+    margin: 30px 10px;
+    color: white;
+    background-color: #1F2937;
+}
